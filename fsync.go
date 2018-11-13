@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"runtime"
 
-	"github.com/gostores/fsintra"
+	"github.com/govenue/fsintra"
 )
 
 var (
